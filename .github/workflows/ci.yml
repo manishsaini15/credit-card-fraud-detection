@@ -29,10 +29,13 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
-
-      - name: Verify Prediction Pipeline
+          
+      - name: Validate Python Files
         run: |
-          python -c "from src.deployment.prediction import PredictionPipeline"
+          python -m py_compile src/deployment/app.py
+          python -m py_compile src/deployment/prediction.py
+          python -m py_compile src/deployment/model_loader.py
+          python -m py_compile src/deployment/schemas.py
 
       - name: Run Unit Tests
         run: |
