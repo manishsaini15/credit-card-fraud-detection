@@ -1,0 +1,497 @@
+[ 2026-06-02 08:24:54,947 ] 46 FraudDetection - INFO - Data ingestion started
+[ 2026-06-02 08:24:55,767 ] 58 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-02 08:24:55,840 ] 76 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-02 08:25:01,968 ] 98 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-02 12:51:12,840 ] 46 FraudDetection - INFO - Data ingestion started
+[ 2026-06-02 12:51:13,668 ] 58 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-02 12:51:13,745 ] 76 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-02 12:51:19,831 ] 98 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-02 12:51:19,831 ] 111 FraudDetection - INFO - Data Validation Started
+[ 2026-06-02 12:51:20,427 ] 123 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-02 12:51:20,427 ] 71 FraudDetection - INFO - Loading schema file
+[ 2026-06-02 12:51:20,429 ] 82 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-02 12:51:20,429 ] 159 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-02 12:51:20,432 ] 175 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-02 12:51:20,590 ] 190 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-02 12:51:20,590 ] 246 FraudDetection - INFO - Validation report generated
+[ 2026-06-02 13:11:57,952 ] 46 FraudDetection - INFO - Data ingestion started
+[ 2026-06-02 13:11:58,782 ] 58 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-02 13:11:58,859 ] 76 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-02 13:12:05,302 ] 98 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-02 13:12:05,302 ] 108 FraudDetection - INFO - Data Validation Started
+[ 2026-06-02 13:12:06,014 ] 120 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-02 13:12:06,014 ] 68 FraudDetection - INFO - Loading schema file
+[ 2026-06-02 13:12:06,016 ] 79 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-02 13:12:06,016 ] 156 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-02 13:12:06,021 ] 172 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-02 13:12:06,177 ] 187 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-02 13:12:06,178 ] 243 FraudDetection - INFO - Validation report generated
+[ 2026-06-02 13:24:48,296 ] 46 FraudDetection - INFO - Data ingestion started
+[ 2026-06-02 13:24:49,101 ] 58 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-02 13:24:49,179 ] 76 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-02 13:24:55,694 ] 98 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-02 13:24:55,694 ] 108 FraudDetection - INFO - Data Validation Started
+[ 2026-06-02 13:24:56,312 ] 120 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-02 13:24:56,312 ] 68 FraudDetection - INFO - Loading schema file
+[ 2026-06-02 13:24:56,315 ] 79 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-02 13:24:56,315 ] 156 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-02 13:24:56,319 ] 172 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-02 13:24:56,484 ] 187 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-02 13:24:56,485 ] 243 FraudDetection - INFO - Validation report generated
+[ 2026-06-02 13:32:45,661 ] 46 FraudDetection - INFO - Data ingestion started
+[ 2026-06-02 13:32:46,489 ] 58 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-02 13:32:46,565 ] 76 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-02 13:32:52,950 ] 98 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-02 13:32:52,950 ] 108 FraudDetection - INFO - Data Validation Started
+[ 2026-06-02 13:32:53,554 ] 120 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-02 13:32:53,555 ] 68 FraudDetection - INFO - Loading schema file
+[ 2026-06-02 13:32:53,557 ] 79 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-02 13:32:53,557 ] 156 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-02 13:32:53,560 ] 172 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-02 13:32:53,716 ] 187 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-02 13:32:53,716 ] 243 FraudDetection - INFO - Validation report generated
+[ 2026-06-02 13:33:34,388 ] 46 FraudDetection - INFO - Data ingestion started
+[ 2026-06-02 13:33:35,239 ] 58 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-02 13:33:35,318 ] 76 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-02 13:33:41,968 ] 98 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-02 13:33:41,968 ] 108 FraudDetection - INFO - Data Validation Started
+[ 2026-06-02 13:33:42,588 ] 120 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-02 13:33:42,588 ] 68 FraudDetection - INFO - Loading schema file
+[ 2026-06-02 13:33:42,590 ] 79 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-02 13:33:42,590 ] 156 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-02 13:33:42,594 ] 172 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-02 13:33:42,750 ] 187 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-02 13:33:42,750 ] 243 FraudDetection - INFO - Validation report generated
+[ 2026-06-02 16:31:42,715 ] 46 FraudDetection - INFO - Data ingestion started
+[ 2026-06-02 16:31:43,520 ] 58 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-02 16:31:43,597 ] 76 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-02 16:31:49,636 ] 98 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-02 16:31:49,636 ] 105 FraudDetection - INFO - Data Validation Started
+[ 2026-06-02 16:31:50,226 ] 117 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-02 16:31:50,226 ] 65 FraudDetection - INFO - Loading schema file
+[ 2026-06-02 16:31:50,229 ] 76 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-02 16:31:50,229 ] 153 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-02 16:31:50,232 ] 169 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-02 16:31:50,387 ] 184 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-02 16:31:50,387 ] 240 FraudDetection - INFO - Validation report generated
+[ 2026-06-02 16:54:50,577 ] 46 FraudDetection - INFO - Data ingestion started
+[ 2026-06-02 16:54:51,478 ] 58 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-02 16:54:51,556 ] 76 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-02 16:54:57,213 ] 98 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-02 16:54:57,214 ] 105 FraudDetection - INFO - Data Validation Started
+[ 2026-06-02 16:54:57,811 ] 117 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-02 16:54:57,811 ] 65 FraudDetection - INFO - Loading schema file
+[ 2026-06-02 16:54:57,813 ] 76 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-02 16:54:57,813 ] 153 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-02 16:54:57,816 ] 169 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-02 16:54:57,972 ] 184 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-02 16:54:57,972 ] 240 FraudDetection - INFO - Validation report generated
+[ 2026-06-02 16:54:57,973 ] 121 FraudDetection - INFO - Data Transformation Started
+[ 2026-06-02 16:54:58,570 ] 142 FraudDetection - INFO - Train dataset loaded with shape (227845, 31)
+[ 2026-06-02 16:54:58,729 ] 155 FraudDetection - INFO - Test dataset loaded with shape (56962, 31)
+[ 2026-06-02 16:54:58,735 ] 192 FraudDetection - INFO - Feature-target separation completed
+[ 2026-06-02 16:54:58,735 ] 75 FraudDetection - INFO - Creating preprocessing pipeline
+[ 2026-06-02 16:54:58,735 ] 99 FraudDetection - INFO - Preprocessing pipeline created successfully
+[ 2026-06-02 16:54:58,754 ] 210 FraudDetection - INFO - Training data transformed successfully
+[ 2026-06-02 16:54:58,760 ] 218 FraudDetection - INFO - Testing data transformed successfully
+[ 2026-06-02 16:54:58,778 ] 228 FraudDetection - INFO - Train and Test arrays created
+[ 2026-06-02 16:54:58,779 ] 237 FraudDetection - INFO - Preprocessor object saved
+[ 2026-06-02 16:54:58,829 ] 263 FraudDetection - INFO - Transformed arrays saved successfully
+[ 2026-06-02 16:54:58,830 ] 282 FraudDetection - INFO - Data Transformation Completed
+[ 2026-06-02 17:06:20,280 ] 46 FraudDetection - INFO - Data ingestion started
+[ 2026-06-02 17:06:21,084 ] 58 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-02 17:06:21,160 ] 76 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-02 17:06:26,727 ] 98 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-02 17:06:26,727 ] 105 FraudDetection - INFO - Data Validation Started
+[ 2026-06-02 17:06:27,309 ] 117 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-02 17:06:27,309 ] 65 FraudDetection - INFO - Loading schema file
+[ 2026-06-02 17:06:27,310 ] 76 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-02 17:06:27,310 ] 153 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-02 17:06:27,313 ] 169 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-02 17:06:27,466 ] 184 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-02 17:06:27,466 ] 240 FraudDetection - INFO - Validation report generated
+[ 2026-06-02 17:06:27,466 ] 121 FraudDetection - INFO - Data Transformation Started
+[ 2026-06-02 17:06:28,047 ] 142 FraudDetection - INFO - Train dataset loaded with shape (227845, 31)
+[ 2026-06-02 17:06:28,202 ] 153 FraudDetection - INFO - Test dataset loaded with shape (56962, 31)
+[ 2026-06-02 17:06:28,207 ] 179 FraudDetection - INFO - Feature-target separation completed
+[ 2026-06-02 17:06:28,207 ] 75 FraudDetection - INFO - Creating preprocessing pipeline
+[ 2026-06-02 17:06:28,207 ] 99 FraudDetection - INFO - Preprocessing pipeline created successfully
+[ 2026-06-02 17:06:28,233 ] 193 FraudDetection - INFO - Training data transformed successfully
+[ 2026-06-02 17:06:28,239 ] 201 FraudDetection - INFO - Testing data transformed successfully
+[ 2026-06-02 17:06:28,252 ] 211 FraudDetection - INFO - Train and Test arrays created
+[ 2026-06-02 17:06:28,253 ] 220 FraudDetection - INFO - Preprocessor object saved
+[ 2026-06-02 17:06:28,294 ] 234 FraudDetection - INFO - Transformed arrays saved successfully
+[ 2026-06-02 17:06:28,295 ] 251 FraudDetection - INFO - Data Transformation Completed
+[ 2026-06-02 18:37:18,053 ] 46 FraudDetection - INFO - Data ingestion started
+[ 2026-06-02 18:37:18,862 ] 58 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-02 18:37:18,941 ] 76 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-02 18:37:24,517 ] 98 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-02 18:37:24,517 ] 105 FraudDetection - INFO - Data Validation Started
+[ 2026-06-02 18:37:25,120 ] 117 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-02 18:37:25,120 ] 65 FraudDetection - INFO - Loading schema file
+[ 2026-06-02 18:37:25,122 ] 76 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-02 18:37:25,122 ] 153 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-02 18:37:25,126 ] 169 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-02 18:37:25,279 ] 184 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-02 18:37:25,279 ] 240 FraudDetection - INFO - Validation report generated
+[ 2026-06-02 18:37:25,279 ] 121 FraudDetection - INFO - Data Transformation Started
+[ 2026-06-02 18:37:25,887 ] 142 FraudDetection - INFO - Train dataset loaded with shape (227845, 31)
+[ 2026-06-02 18:37:26,046 ] 153 FraudDetection - INFO - Test dataset loaded with shape (56962, 31)
+[ 2026-06-02 18:37:26,054 ] 179 FraudDetection - INFO - Feature-target separation completed
+[ 2026-06-02 18:37:26,055 ] 75 FraudDetection - INFO - Creating preprocessing pipeline
+[ 2026-06-02 18:37:26,055 ] 99 FraudDetection - INFO - Preprocessing pipeline created successfully
+[ 2026-06-02 18:37:26,083 ] 193 FraudDetection - INFO - Training data transformed successfully
+[ 2026-06-02 18:37:26,090 ] 201 FraudDetection - INFO - Testing data transformed successfully
+[ 2026-06-02 18:37:26,106 ] 211 FraudDetection - INFO - Train and Test arrays created
+[ 2026-06-02 18:37:26,108 ] 220 FraudDetection - INFO - Preprocessor object saved
+[ 2026-06-02 18:37:26,177 ] 234 FraudDetection - INFO - Transformed arrays saved successfully
+[ 2026-06-02 18:37:26,177 ] 251 FraudDetection - INFO - Data Transformation Completed
+[ 2026-06-03 13:00:48,110 ] 43 FraudDetection - INFO - Data ingestion started
+[ 2026-06-03 13:00:48,995 ] 51 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-03 13:00:49,077 ] 69 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-03 13:00:55,381 ] 85 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-03 13:00:55,382 ] 105 FraudDetection - INFO - Data Validation Started
+[ 2026-06-03 13:00:56,064 ] 117 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-03 13:00:56,065 ] 65 FraudDetection - INFO - Loading schema file
+[ 2026-06-03 13:00:56,067 ] 76 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-03 13:00:56,067 ] 153 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-03 13:00:56,071 ] 169 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-03 13:00:56,238 ] 184 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-03 13:00:56,238 ] 240 FraudDetection - INFO - Validation report generated
+[ 2026-06-03 13:00:56,239 ] 121 FraudDetection - INFO - Data Transformation Started
+[ 2026-06-03 13:00:56,869 ] 142 FraudDetection - INFO - Train dataset loaded with shape (227845, 31)
+[ 2026-06-03 13:00:57,025 ] 153 FraudDetection - INFO - Test dataset loaded with shape (56962, 31)
+[ 2026-06-03 13:00:57,034 ] 179 FraudDetection - INFO - Feature-target separation completed
+[ 2026-06-03 13:00:57,034 ] 75 FraudDetection - INFO - Creating preprocessing pipeline
+[ 2026-06-03 13:00:57,034 ] 99 FraudDetection - INFO - Preprocessing pipeline created successfully
+[ 2026-06-03 13:00:57,064 ] 193 FraudDetection - INFO - Training data transformed successfully
+[ 2026-06-03 13:00:57,071 ] 201 FraudDetection - INFO - Testing data transformed successfully
+[ 2026-06-03 13:00:57,085 ] 211 FraudDetection - INFO - Train and Test arrays created
+[ 2026-06-03 13:00:57,088 ] 220 FraudDetection - INFO - Preprocessor object saved
+[ 2026-06-03 13:00:57,226 ] 234 FraudDetection - INFO - Transformed arrays saved successfully
+[ 2026-06-03 13:00:57,227 ] 251 FraudDetection - INFO - Data Transformation Completed
+[ 2026-06-03 13:00:57,227 ] 113 FraudDetection - INFO - Model Training Started
+[ 2026-06-03 13:00:57,237 ] 137 FraudDetection - INFO - Training array loaded successfully
+[ 2026-06-03 13:00:57,239 ] 150 FraudDetection - INFO - Testing array loaded successfully
+[ 2026-06-03 13:00:57,239 ] 183 FraudDetection - INFO - Feature-target separation completed
+[ 2026-06-03 13:00:57,239 ] 240 FraudDetection - INFO - Model dictionary created
+[ 2026-06-03 13:02:03,791 ] 276 FraudDetection - INFO - Model Report: {'Logistic Regression': 0.11435832274459974, 'Random Forest': 0.8342857142857143, 'XGBoost': 0.8297872340425532}
+[ 2026-06-03 13:02:03,792 ] 299 FraudDetection - INFO - Best Model: Random Forest
+[ 2026-06-03 13:02:03,792 ] 303 FraudDetection - INFO - Best Score: 0.8342857142857143
+[ 2026-06-03 13:02:03,797 ] 363 FraudDetection - INFO - Best model saved successfully
+[ 2026-06-03 13:02:04,544 ] 401 FraudDetection - INFO - Train F1 Score: 1.0
+[ 2026-06-03 13:02:04,544 ] 405 FraudDetection - INFO - Test F1 Score: 0.8342857142857143
+[ 2026-06-03 13:02:04,544 ] 442 FraudDetection - INFO - Model Training Completed
+[ 2026-06-03 14:15:31,246 ] 43 FraudDetection - INFO - Data ingestion started
+[ 2026-06-03 14:15:32,051 ] 51 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-03 14:15:32,131 ] 69 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-03 14:15:38,222 ] 85 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-03 14:15:38,222 ] 105 FraudDetection - INFO - Data Validation Started
+[ 2026-06-03 14:15:38,816 ] 117 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-03 14:15:38,816 ] 65 FraudDetection - INFO - Loading schema file
+[ 2026-06-03 14:15:38,819 ] 76 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-03 14:15:38,819 ] 153 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-03 14:15:38,823 ] 169 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-03 14:15:38,989 ] 184 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-03 14:15:38,992 ] 240 FraudDetection - INFO - Validation report generated
+[ 2026-06-03 14:15:38,992 ] 121 FraudDetection - INFO - Data Transformation Started
+[ 2026-06-03 14:15:39,599 ] 142 FraudDetection - INFO - Train dataset loaded with shape (227845, 31)
+[ 2026-06-03 14:15:39,753 ] 153 FraudDetection - INFO - Test dataset loaded with shape (56962, 31)
+[ 2026-06-03 14:15:39,761 ] 179 FraudDetection - INFO - Feature-target separation completed
+[ 2026-06-03 14:15:39,762 ] 75 FraudDetection - INFO - Creating preprocessing pipeline
+[ 2026-06-03 14:15:39,762 ] 99 FraudDetection - INFO - Preprocessing pipeline created successfully
+[ 2026-06-03 14:15:39,783 ] 193 FraudDetection - INFO - Training data transformed successfully
+[ 2026-06-03 14:15:39,791 ] 201 FraudDetection - INFO - Testing data transformed successfully
+[ 2026-06-03 14:15:39,808 ] 211 FraudDetection - INFO - Train and Test arrays created
+[ 2026-06-03 14:15:39,809 ] 220 FraudDetection - INFO - Preprocessor object saved
+[ 2026-06-03 14:15:39,896 ] 234 FraudDetection - INFO - Transformed arrays saved successfully
+[ 2026-06-03 14:15:39,896 ] 251 FraudDetection - INFO - Data Transformation Completed
+[ 2026-06-03 14:15:39,896 ] 81 FraudDetection - INFO - Model Training Started
+[ 2026-06-03 14:15:39,905 ] 109 FraudDetection - INFO - Feature-target separation completed.
+[ 2026-06-03 14:15:39,905 ] 152 FraudDetection - INFO - Training Logistic Regression
+[ 2026-06-03 14:15:40,400 ] 170 FraudDetection - INFO - Logistic Regression F1 Score : 0.11435832274459974
+[ 2026-06-03 14:15:40,400 ] 152 FraudDetection - INFO - Training Random Forest
+[ 2026-06-03 14:16:44,307 ] 170 FraudDetection - INFO - Random Forest F1 Score : 0.8342857142857143
+[ 2026-06-03 14:16:44,308 ] 152 FraudDetection - INFO - Training XGBoost
+[ 2026-06-03 14:16:44,978 ] 170 FraudDetection - INFO - XGBoost F1 Score : 0.8297872340425532
+[ 2026-06-03 14:16:44,978 ] 182 FraudDetection - INFO - Best Model : Random Forest
+[ 2026-06-03 14:16:44,978 ] 186 FraudDetection - INFO - Best F1 Score : 0.8342857142857143
+[ 2026-06-03 14:16:44,985 ] 214 FraudDetection - INFO - Model saved successfully.
+[ 2026-06-03 14:16:45,876 ] 276 FraudDetection - INFO - Train F1 : 1.0
+[ 2026-06-03 14:16:45,876 ] 280 FraudDetection - INFO - Test F1 : 0.8342857142857143
+[ 2026-06-03 14:16:45,876 ] 284 FraudDetection - INFO - Precision : 0.948051948051948
+[ 2026-06-03 14:16:45,876 ] 288 FraudDetection - INFO - Recall : 0.7448979591836735
+[ 2026-06-03 14:16:45,876 ] 292 FraudDetection - INFO - ROC AUC : 0.9529584730628323
+[ 2026-06-03 14:16:45,877 ] 51 FraudDetection - INFO - Starting MLflow tracking.
+[ 2026-06-03 14:16:45,958 ] 196 FraudDetection - ERROR - MLflow tracking failed: API request to endpoint /api/2.0/mlflow/experiments/get-by-name failed with error code 403 != 200. Response body: ''
+[ 2026-06-03 14:16:45,958 ] 382 FraudDetection - ERROR - Model training failed : Error occurred at line 63: API request to endpoint /api/2.0/mlflow/experiments/get-by-name failed with error code 403 != 200. Response body: ''
+[ 2026-06-03 14:27:12,880 ] 43 FraudDetection - INFO - Data ingestion started
+[ 2026-06-03 14:27:13,674 ] 51 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-03 14:27:13,752 ] 69 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-03 14:27:19,998 ] 85 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-03 14:27:19,999 ] 105 FraudDetection - INFO - Data Validation Started
+[ 2026-06-03 14:27:20,695 ] 117 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-03 14:27:20,695 ] 65 FraudDetection - INFO - Loading schema file
+[ 2026-06-03 14:27:20,696 ] 76 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-03 14:27:20,696 ] 153 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-03 14:27:20,700 ] 169 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-03 14:27:20,863 ] 184 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-03 14:27:20,863 ] 240 FraudDetection - INFO - Validation report generated
+[ 2026-06-03 14:27:20,863 ] 121 FraudDetection - INFO - Data Transformation Started
+[ 2026-06-03 14:27:21,470 ] 142 FraudDetection - INFO - Train dataset loaded with shape (227845, 31)
+[ 2026-06-03 14:27:21,627 ] 153 FraudDetection - INFO - Test dataset loaded with shape (56962, 31)
+[ 2026-06-03 14:27:21,632 ] 179 FraudDetection - INFO - Feature-target separation completed
+[ 2026-06-03 14:27:21,632 ] 75 FraudDetection - INFO - Creating preprocessing pipeline
+[ 2026-06-03 14:27:21,632 ] 99 FraudDetection - INFO - Preprocessing pipeline created successfully
+[ 2026-06-03 14:27:21,673 ] 193 FraudDetection - INFO - Training data transformed successfully
+[ 2026-06-03 14:27:21,681 ] 201 FraudDetection - INFO - Testing data transformed successfully
+[ 2026-06-03 14:27:21,703 ] 211 FraudDetection - INFO - Train and Test arrays created
+[ 2026-06-03 14:27:21,705 ] 220 FraudDetection - INFO - Preprocessor object saved
+[ 2026-06-03 14:27:21,836 ] 234 FraudDetection - INFO - Transformed arrays saved successfully
+[ 2026-06-03 14:27:21,836 ] 251 FraudDetection - INFO - Data Transformation Completed
+[ 2026-06-03 14:27:21,836 ] 81 FraudDetection - INFO - Model Training Started
+[ 2026-06-03 14:27:21,847 ] 109 FraudDetection - INFO - Feature-target separation completed.
+[ 2026-06-03 14:27:21,847 ] 152 FraudDetection - INFO - Training Logistic Regression
+[ 2026-06-03 14:27:22,430 ] 170 FraudDetection - INFO - Logistic Regression F1 Score : 0.11435832274459974
+[ 2026-06-03 14:27:22,430 ] 152 FraudDetection - INFO - Training Random Forest
+[ 2026-06-03 14:28:28,128 ] 170 FraudDetection - INFO - Random Forest F1 Score : 0.8342857142857143
+[ 2026-06-03 14:28:28,129 ] 152 FraudDetection - INFO - Training XGBoost
+[ 2026-06-03 14:28:28,888 ] 170 FraudDetection - INFO - XGBoost F1 Score : 0.8297872340425532
+[ 2026-06-03 14:28:28,888 ] 182 FraudDetection - INFO - Best Model : Random Forest
+[ 2026-06-03 14:28:28,888 ] 186 FraudDetection - INFO - Best F1 Score : 0.8342857142857143
+[ 2026-06-03 14:28:28,895 ] 214 FraudDetection - INFO - Model saved successfully.
+[ 2026-06-03 14:28:29,817 ] 276 FraudDetection - INFO - Train F1 : 1.0
+[ 2026-06-03 14:28:29,817 ] 280 FraudDetection - INFO - Test F1 : 0.8342857142857143
+[ 2026-06-03 14:28:29,817 ] 284 FraudDetection - INFO - Precision : 0.948051948051948
+[ 2026-06-03 14:28:29,817 ] 288 FraudDetection - INFO - Recall : 0.7448979591836735
+[ 2026-06-03 14:28:29,817 ] 292 FraudDetection - INFO - ROC AUC : 0.9529584730628323
+[ 2026-06-03 14:28:29,818 ] 51 FraudDetection - INFO - Starting MLflow tracking.
+[ 2026-06-03 14:28:29,828 ] 196 FraudDetection - ERROR - MLflow tracking failed: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+[ 2026-06-03 14:28:29,828 ] 382 FraudDetection - ERROR - Model training failed : Error occurred at line 63: The filesystem tracking backend (e.g., './mlruns') is in maintenance mode and will not receive further updates. Please migrate to a database backend (e.g., 'sqlite:///mlflow.db') to access the latest MLflow features. The `mlflow migrate-filestore` tool migrates your existing data losslessly. See https://mlflow.org/docs/latest/self-hosting/migrate-from-file-store for migration guidance. If the filesystem backend is required for your workflow, set `MLFLOW_ALLOW_FILE_STORE=true` to opt out of this exception.
+[ 2026-06-03 14:30:59,532 ] 43 FraudDetection - INFO - Data ingestion started
+[ 2026-06-03 14:31:00,586 ] 51 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-03 14:31:00,668 ] 69 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-03 14:31:07,283 ] 85 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-03 14:31:07,284 ] 105 FraudDetection - INFO - Data Validation Started
+[ 2026-06-03 14:31:07,919 ] 117 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-03 14:31:07,919 ] 65 FraudDetection - INFO - Loading schema file
+[ 2026-06-03 14:31:07,921 ] 76 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-03 14:31:07,921 ] 153 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-03 14:31:07,925 ] 169 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-03 14:31:08,080 ] 184 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-03 14:31:08,080 ] 240 FraudDetection - INFO - Validation report generated
+[ 2026-06-03 14:31:08,081 ] 121 FraudDetection - INFO - Data Transformation Started
+[ 2026-06-03 14:31:08,687 ] 142 FraudDetection - INFO - Train dataset loaded with shape (227845, 31)
+[ 2026-06-03 14:31:08,842 ] 153 FraudDetection - INFO - Test dataset loaded with shape (56962, 31)
+[ 2026-06-03 14:31:08,852 ] 179 FraudDetection - INFO - Feature-target separation completed
+[ 2026-06-03 14:31:08,852 ] 75 FraudDetection - INFO - Creating preprocessing pipeline
+[ 2026-06-03 14:31:08,853 ] 99 FraudDetection - INFO - Preprocessing pipeline created successfully
+[ 2026-06-03 14:31:08,891 ] 193 FraudDetection - INFO - Training data transformed successfully
+[ 2026-06-03 14:31:08,900 ] 201 FraudDetection - INFO - Testing data transformed successfully
+[ 2026-06-03 14:31:08,913 ] 211 FraudDetection - INFO - Train and Test arrays created
+[ 2026-06-03 14:31:08,915 ] 220 FraudDetection - INFO - Preprocessor object saved
+[ 2026-06-03 14:31:08,982 ] 234 FraudDetection - INFO - Transformed arrays saved successfully
+[ 2026-06-03 14:31:08,982 ] 251 FraudDetection - INFO - Data Transformation Completed
+[ 2026-06-03 14:31:08,982 ] 81 FraudDetection - INFO - Model Training Started
+[ 2026-06-03 14:31:08,992 ] 109 FraudDetection - INFO - Feature-target separation completed.
+[ 2026-06-03 14:31:08,992 ] 152 FraudDetection - INFO - Training Logistic Regression
+[ 2026-06-03 14:31:09,474 ] 170 FraudDetection - INFO - Logistic Regression F1 Score : 0.11435832274459974
+[ 2026-06-03 14:31:09,475 ] 152 FraudDetection - INFO - Training Random Forest
+[ 2026-06-03 14:32:16,907 ] 170 FraudDetection - INFO - Random Forest F1 Score : 0.8342857142857143
+[ 2026-06-03 14:32:16,909 ] 152 FraudDetection - INFO - Training XGBoost
+[ 2026-06-03 14:32:17,571 ] 170 FraudDetection - INFO - XGBoost F1 Score : 0.8297872340425532
+[ 2026-06-03 14:32:17,571 ] 182 FraudDetection - INFO - Best Model : Random Forest
+[ 2026-06-03 14:32:17,571 ] 186 FraudDetection - INFO - Best F1 Score : 0.8342857142857143
+[ 2026-06-03 14:32:17,581 ] 214 FraudDetection - INFO - Model saved successfully.
+[ 2026-06-03 14:32:18,468 ] 276 FraudDetection - INFO - Train F1 : 1.0
+[ 2026-06-03 14:32:18,468 ] 280 FraudDetection - INFO - Test F1 : 0.8342857142857143
+[ 2026-06-03 14:32:18,468 ] 284 FraudDetection - INFO - Precision : 0.948051948051948
+[ 2026-06-03 14:32:18,468 ] 288 FraudDetection - INFO - Recall : 0.7448979591836735
+[ 2026-06-03 14:32:18,468 ] 292 FraudDetection - INFO - ROC AUC : 0.9529584730628323
+[ 2026-06-03 14:32:18,469 ] 51 FraudDetection - INFO - Starting MLflow tracking.
+[ 2026-06-03 14:32:19,376 ] 73 FraudDetection - INFO - MLflow run started.
+[ 2026-06-03 14:32:19,403 ] 101 FraudDetection - INFO - Hyperparameters logged.
+[ 2026-06-03 14:32:19,412 ] 134 FraudDetection - INFO - Metrics logged.
+[ 2026-06-03 14:32:19,425 ] 167 FraudDetection - INFO - Feature importance logged.
+[ 2026-06-03 14:32:23,220 ] 186 FraudDetection - INFO - Model registered successfully.
+[ 2026-06-03 14:32:23,220 ] 190 FraudDetection - INFO - MLflow tracking completed.
+[ 2026-06-03 14:32:23,225 ] 336 FraudDetection - INFO - MLflow tracking completed.
+[ 2026-06-03 14:32:23,225 ] 372 FraudDetection - INFO - Model Training Completed
+[ 2026-06-03 15:01:50,318 ] 43 FraudDetection - INFO - Data ingestion started
+[ 2026-06-03 15:01:51,115 ] 51 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-03 15:01:51,193 ] 69 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-03 15:01:57,333 ] 85 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-03 15:01:57,333 ] 105 FraudDetection - INFO - Data Validation Started
+[ 2026-06-03 15:01:57,951 ] 117 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-03 15:01:57,952 ] 65 FraudDetection - INFO - Loading schema file
+[ 2026-06-03 15:01:57,953 ] 76 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-03 15:01:57,953 ] 153 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-03 15:01:57,956 ] 169 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-03 15:01:58,109 ] 184 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-03 15:01:58,110 ] 240 FraudDetection - INFO - Validation report generated
+[ 2026-06-03 15:01:58,110 ] 121 FraudDetection - INFO - Data Transformation Started
+[ 2026-06-03 15:01:58,706 ] 142 FraudDetection - INFO - Train dataset loaded with shape (227845, 31)
+[ 2026-06-03 15:01:58,860 ] 153 FraudDetection - INFO - Test dataset loaded with shape (56962, 31)
+[ 2026-06-03 15:01:58,865 ] 179 FraudDetection - INFO - Feature-target separation completed
+[ 2026-06-03 15:01:58,865 ] 75 FraudDetection - INFO - Creating preprocessing pipeline
+[ 2026-06-03 15:01:58,865 ] 99 FraudDetection - INFO - Preprocessing pipeline created successfully
+[ 2026-06-03 15:01:58,887 ] 193 FraudDetection - INFO - Training data transformed successfully
+[ 2026-06-03 15:01:58,894 ] 201 FraudDetection - INFO - Testing data transformed successfully
+[ 2026-06-03 15:01:58,909 ] 211 FraudDetection - INFO - Train and Test arrays created
+[ 2026-06-03 15:01:58,911 ] 220 FraudDetection - INFO - Preprocessor object saved
+[ 2026-06-03 15:01:59,112 ] 234 FraudDetection - INFO - Transformed arrays saved successfully
+[ 2026-06-03 15:01:59,112 ] 251 FraudDetection - INFO - Data Transformation Completed
+[ 2026-06-03 15:01:59,112 ] 81 FraudDetection - INFO - Model Training Started
+[ 2026-06-03 15:01:59,124 ] 109 FraudDetection - INFO - Feature-target separation completed.
+[ 2026-06-03 15:01:59,124 ] 152 FraudDetection - INFO - Training Logistic Regression
+[ 2026-06-03 15:01:59,602 ] 170 FraudDetection - INFO - Logistic Regression F1 Score : 0.11435832274459974
+[ 2026-06-03 15:01:59,602 ] 152 FraudDetection - INFO - Training Random Forest
+[ 2026-06-03 15:03:03,731 ] 170 FraudDetection - INFO - Random Forest F1 Score : 0.8342857142857143
+[ 2026-06-03 15:03:03,732 ] 152 FraudDetection - INFO - Training XGBoost
+[ 2026-06-03 15:03:04,457 ] 170 FraudDetection - INFO - XGBoost F1 Score : 0.8297872340425532
+[ 2026-06-03 15:03:04,457 ] 182 FraudDetection - INFO - Best Model : Random Forest
+[ 2026-06-03 15:03:04,457 ] 186 FraudDetection - INFO - Best F1 Score : 0.8342857142857143
+[ 2026-06-03 15:03:04,463 ] 214 FraudDetection - INFO - Model saved successfully.
+[ 2026-06-03 15:03:05,370 ] 276 FraudDetection - INFO - Train F1 : 1.0
+[ 2026-06-03 15:03:05,370 ] 280 FraudDetection - INFO - Test F1 : 0.8342857142857143
+[ 2026-06-03 15:03:05,370 ] 284 FraudDetection - INFO - Precision : 0.948051948051948
+[ 2026-06-03 15:03:05,370 ] 288 FraudDetection - INFO - Recall : 0.7448979591836735
+[ 2026-06-03 15:03:05,370 ] 292 FraudDetection - INFO - ROC AUC : 0.9529584730628323
+[ 2026-06-03 15:03:05,371 ] 51 FraudDetection - INFO - Starting MLflow tracking.
+[ 2026-06-03 15:03:05,971 ] 73 FraudDetection - INFO - MLflow run started.
+[ 2026-06-03 15:03:05,999 ] 101 FraudDetection - INFO - Hyperparameters logged.
+[ 2026-06-03 15:03:06,009 ] 134 FraudDetection - INFO - Metrics logged.
+[ 2026-06-03 15:03:06,024 ] 167 FraudDetection - INFO - Feature importance logged.
+[ 2026-06-03 15:03:09,087 ] 186 FraudDetection - INFO - Model registered successfully.
+[ 2026-06-03 15:03:09,087 ] 190 FraudDetection - INFO - MLflow tracking completed.
+[ 2026-06-03 15:03:09,091 ] 336 FraudDetection - INFO - MLflow tracking completed.
+[ 2026-06-03 15:03:09,091 ] 372 FraudDetection - INFO - Model Training Completed
+[ 2026-06-03 15:03:09,091 ] 47 FraudDetection - INFO - Model evaluation started
+[ 2026-06-03 15:03:09,091 ] 89 FraudDetection - INFO - Evaluation report generated
+[ 2026-06-03 15:31:00,721 ] 43 FraudDetection - INFO - Data ingestion started
+[ 2026-06-03 15:31:01,656 ] 51 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-03 15:31:01,740 ] 69 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-03 15:31:08,219 ] 85 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-03 15:31:08,221 ] 105 FraudDetection - INFO - Data Validation Started
+[ 2026-06-03 15:31:08,914 ] 117 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-03 15:31:08,914 ] 65 FraudDetection - INFO - Loading schema file
+[ 2026-06-03 15:31:08,917 ] 76 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-03 15:31:08,917 ] 153 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-03 15:31:08,921 ] 169 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-03 15:31:09,094 ] 184 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-03 15:31:09,095 ] 240 FraudDetection - INFO - Validation report generated
+[ 2026-06-03 15:31:09,095 ] 121 FraudDetection - INFO - Data Transformation Started
+[ 2026-06-03 15:31:09,721 ] 142 FraudDetection - INFO - Train dataset loaded with shape (227845, 31)
+[ 2026-06-03 15:31:09,884 ] 153 FraudDetection - INFO - Test dataset loaded with shape (56962, 31)
+[ 2026-06-03 15:31:09,890 ] 179 FraudDetection - INFO - Feature-target separation completed
+[ 2026-06-03 15:31:09,890 ] 75 FraudDetection - INFO - Creating preprocessing pipeline
+[ 2026-06-03 15:31:09,890 ] 99 FraudDetection - INFO - Preprocessing pipeline created successfully
+[ 2026-06-03 15:31:09,911 ] 193 FraudDetection - INFO - Training data transformed successfully
+[ 2026-06-03 15:31:09,918 ] 201 FraudDetection - INFO - Testing data transformed successfully
+[ 2026-06-03 15:31:09,930 ] 211 FraudDetection - INFO - Train and Test arrays created
+[ 2026-06-03 15:31:09,931 ] 220 FraudDetection - INFO - Preprocessor object saved
+[ 2026-06-03 15:31:09,991 ] 234 FraudDetection - INFO - Transformed arrays saved successfully
+[ 2026-06-03 15:31:09,992 ] 251 FraudDetection - INFO - Data Transformation Completed
+[ 2026-06-03 15:31:09,992 ] 81 FraudDetection - INFO - Model Training Started
+[ 2026-06-03 15:31:10,002 ] 109 FraudDetection - INFO - Feature-target separation completed.
+[ 2026-06-03 15:31:10,002 ] 152 FraudDetection - INFO - Training Logistic Regression
+[ 2026-06-03 15:31:10,485 ] 170 FraudDetection - INFO - Logistic Regression F1 Score : 0.11435832274459974
+[ 2026-06-03 15:31:10,485 ] 152 FraudDetection - INFO - Training Random Forest
+[ 2026-06-03 15:32:14,514 ] 170 FraudDetection - INFO - Random Forest F1 Score : 0.8342857142857143
+[ 2026-06-03 15:32:14,514 ] 152 FraudDetection - INFO - Training XGBoost
+[ 2026-06-03 15:32:15,193 ] 170 FraudDetection - INFO - XGBoost F1 Score : 0.8297872340425532
+[ 2026-06-03 15:32:15,193 ] 182 FraudDetection - INFO - Best Model : Random Forest
+[ 2026-06-03 15:32:15,193 ] 186 FraudDetection - INFO - Best F1 Score : 0.8342857142857143
+[ 2026-06-03 15:32:15,202 ] 214 FraudDetection - INFO - Model saved successfully.
+[ 2026-06-03 15:32:16,123 ] 276 FraudDetection - INFO - Train F1 : 1.0
+[ 2026-06-03 15:32:16,123 ] 280 FraudDetection - INFO - Test F1 : 0.8342857142857143
+[ 2026-06-03 15:32:16,123 ] 284 FraudDetection - INFO - Precision : 0.948051948051948
+[ 2026-06-03 15:32:16,123 ] 288 FraudDetection - INFO - Recall : 0.7448979591836735
+[ 2026-06-03 15:32:16,123 ] 292 FraudDetection - INFO - ROC AUC : 0.9529584730628323
+[ 2026-06-03 15:32:16,124 ] 51 FraudDetection - INFO - Starting MLflow tracking.
+[ 2026-06-03 15:32:16,753 ] 73 FraudDetection - INFO - MLflow run started.
+[ 2026-06-03 15:32:16,780 ] 101 FraudDetection - INFO - Hyperparameters logged.
+[ 2026-06-03 15:32:16,791 ] 134 FraudDetection - INFO - Metrics logged.
+[ 2026-06-03 15:32:16,805 ] 167 FraudDetection - INFO - Feature importance logged.
+[ 2026-06-03 15:32:19,965 ] 186 FraudDetection - INFO - Model registered successfully.
+[ 2026-06-03 15:32:19,965 ] 190 FraudDetection - INFO - MLflow tracking completed.
+[ 2026-06-03 15:32:19,970 ] 336 FraudDetection - INFO - MLflow tracking completed.
+[ 2026-06-03 15:32:19,970 ] 372 FraudDetection - INFO - Model Training Completed
+[ 2026-06-03 15:32:19,971 ] 47 FraudDetection - INFO - Model evaluation started
+[ 2026-06-03 15:32:19,971 ] 89 FraudDetection - INFO - Evaluation report generated
+[ 2026-06-03 15:32:19,975 ] 83 FraudDetection - INFO - Model v1 registered
+[ 2026-06-03 15:42:11,251 ] 43 FraudDetection - INFO - Data ingestion started
+[ 2026-06-03 15:42:12,076 ] 51 FraudDetection - INFO - Dataset loaded. Shape: (284807, 31)
+[ 2026-06-03 15:42:12,156 ] 69 FraudDetection - INFO - Train Test Split completed
+[ 2026-06-03 15:42:18,130 ] 85 FraudDetection - INFO - Datasets saved successfully
+[ 2026-06-03 15:42:18,131 ] 105 FraudDetection - INFO - Data Validation Started
+[ 2026-06-03 15:42:18,809 ] 117 FraudDetection - INFO - Training dataset loaded with shape (227845, 31)
+[ 2026-06-03 15:42:18,809 ] 65 FraudDetection - INFO - Loading schema file
+[ 2026-06-03 15:42:18,811 ] 76 FraudDetection - INFO - Schema loaded successfully
+[ 2026-06-03 15:42:18,811 ] 153 FraudDetection - INFO - Column Validation Status: True
+[ 2026-06-03 15:42:18,814 ] 169 FraudDetection - INFO - Missing Values Found: 0
+[ 2026-06-03 15:42:18,974 ] 184 FraudDetection - INFO - Duplicate Rows Found: 718
+[ 2026-06-03 15:42:18,975 ] 240 FraudDetection - INFO - Validation report generated
+[ 2026-06-03 15:42:18,975 ] 121 FraudDetection - INFO - Data Transformation Started
+[ 2026-06-03 15:42:19,624 ] 142 FraudDetection - INFO - Train dataset loaded with shape (227845, 31)
+[ 2026-06-03 15:42:19,783 ] 153 FraudDetection - INFO - Test dataset loaded with shape (56962, 31)
+[ 2026-06-03 15:42:19,788 ] 179 FraudDetection - INFO - Feature-target separation completed
+[ 2026-06-03 15:42:19,788 ] 75 FraudDetection - INFO - Creating preprocessing pipeline
+[ 2026-06-03 15:42:19,788 ] 99 FraudDetection - INFO - Preprocessing pipeline created successfully
+[ 2026-06-03 15:42:19,805 ] 193 FraudDetection - INFO - Training data transformed successfully
+[ 2026-06-03 15:42:19,809 ] 201 FraudDetection - INFO - Testing data transformed successfully
+[ 2026-06-03 15:42:19,823 ] 211 FraudDetection - INFO - Train and Test arrays created
+[ 2026-06-03 15:42:19,825 ] 220 FraudDetection - INFO - Preprocessor object saved
+[ 2026-06-03 15:42:19,865 ] 234 FraudDetection - INFO - Transformed arrays saved successfully
+[ 2026-06-03 15:42:19,865 ] 251 FraudDetection - INFO - Data Transformation Completed
+[ 2026-06-03 15:42:19,865 ] 81 FraudDetection - INFO - Model Training Started
+[ 2026-06-03 15:42:19,873 ] 109 FraudDetection - INFO - Feature-target separation completed.
+[ 2026-06-03 15:42:19,873 ] 152 FraudDetection - INFO - Training Logistic Regression
+[ 2026-06-03 15:42:20,376 ] 170 FraudDetection - INFO - Logistic Regression F1 Score : 0.11435832274459974
+[ 2026-06-03 15:42:20,376 ] 152 FraudDetection - INFO - Training Random Forest
+[ 2026-06-03 15:43:23,702 ] 170 FraudDetection - INFO - Random Forest F1 Score : 0.8342857142857143
+[ 2026-06-03 15:43:23,703 ] 152 FraudDetection - INFO - Training XGBoost
+[ 2026-06-03 15:43:24,382 ] 170 FraudDetection - INFO - XGBoost F1 Score : 0.8297872340425532
+[ 2026-06-03 15:43:24,382 ] 182 FraudDetection - INFO - Best Model : Random Forest
+[ 2026-06-03 15:43:24,382 ] 186 FraudDetection - INFO - Best F1 Score : 0.8342857142857143
+[ 2026-06-03 15:43:24,390 ] 214 FraudDetection - INFO - Model saved successfully.
+[ 2026-06-03 15:43:25,288 ] 276 FraudDetection - INFO - Train F1 : 1.0
+[ 2026-06-03 15:43:25,288 ] 280 FraudDetection - INFO - Test F1 : 0.8342857142857143
+[ 2026-06-03 15:43:25,288 ] 284 FraudDetection - INFO - Precision : 0.948051948051948
+[ 2026-06-03 15:43:25,288 ] 288 FraudDetection - INFO - Recall : 0.7448979591836735
+[ 2026-06-03 15:43:25,288 ] 292 FraudDetection - INFO - ROC AUC : 0.9529584730628323
+[ 2026-06-03 15:43:25,289 ] 51 FraudDetection - INFO - Starting MLflow tracking.
+[ 2026-06-03 15:43:25,865 ] 73 FraudDetection - INFO - MLflow run started.
+[ 2026-06-03 15:43:25,905 ] 101 FraudDetection - INFO - Hyperparameters logged.
+[ 2026-06-03 15:43:25,919 ] 134 FraudDetection - INFO - Metrics logged.
+[ 2026-06-03 15:43:25,935 ] 167 FraudDetection - INFO - Feature importance logged.
+[ 2026-06-03 15:43:29,021 ] 186 FraudDetection - INFO - Model registered successfully.
+[ 2026-06-03 15:43:29,021 ] 190 FraudDetection - INFO - MLflow tracking completed.
+[ 2026-06-03 15:43:29,029 ] 336 FraudDetection - INFO - MLflow tracking completed.
+[ 2026-06-03 15:43:29,029 ] 372 FraudDetection - INFO - Model Training Completed
+[ 2026-06-03 15:43:29,029 ] 47 FraudDetection - INFO - Model evaluation started
+[ 2026-06-03 15:43:29,030 ] 89 FraudDetection - INFO - Evaluation report generated
+[ 2026-06-03 15:43:29,033 ] 99 FraudDetection - INFO - Model v2 registered
+[ 2026-06-04 12:08:21,937 ] 48 FraudDetection - INFO - Loading model: model_v2.pkl
+[ 2026-06-04 12:08:24,348 ] 61 FraudDetection - INFO - Loading preprocessor
+[ 2026-06-04 12:08:24,348 ] 19 FraudDetection - INFO - Model and preprocessor loaded at startup
+[ 2026-06-04 12:08:24,348 ] 20 FraudDetection - INFO - API initialized successfully
+[ 2026-06-04 12:08:25,034 ] 48 FraudDetection - INFO - Loading model: model_v2.pkl
+[ 2026-06-04 12:08:26,093 ] 61 FraudDetection - INFO - Loading preprocessor
+[ 2026-06-04 12:08:26,093 ] 19 FraudDetection - INFO - Model and preprocessor loaded at startup
+[ 2026-06-04 12:08:26,093 ] 20 FraudDetection - INFO - API initialized successfully
+[ 2026-06-04 12:15:19,570 ] 24 FraudDetection - INFO - Prediction started
+[ 2026-06-04 12:15:19,580 ] 32 FraudDetection - INFO - Input converted to DataFrame
+[ 2026-06-04 12:15:19,612 ] 42 FraudDetection - INFO - Prediction: 0.0, Probability: 0.0
+[ 2026-06-04 12:16:16,269 ] 24 FraudDetection - INFO - Prediction started
+[ 2026-06-04 12:16:16,271 ] 32 FraudDetection - INFO - Input converted to DataFrame
+[ 2026-06-04 12:16:16,287 ] 42 FraudDetection - INFO - Prediction: 0.0, Probability: 0.0
+[ 2026-06-04 12:17:41,747 ] 24 FraudDetection - INFO - Prediction started
+[ 2026-06-04 12:17:41,761 ] 32 FraudDetection - INFO - Input converted to DataFrame
+[ 2026-06-04 12:17:41,792 ] 42 FraudDetection - INFO - Prediction: 0.0, Probability: 0.0
+[ 2026-06-04 12:17:59,180 ] 24 FraudDetection - INFO - Prediction started
+[ 2026-06-04 12:17:59,184 ] 32 FraudDetection - INFO - Input converted to DataFrame
+[ 2026-06-04 12:17:59,196 ] 42 FraudDetection - INFO - Prediction: 0.0, Probability: 0.0
+[ 2026-06-04 12:18:06,877 ] 24 FraudDetection - INFO - Prediction started
+[ 2026-06-04 12:18:06,878 ] 32 FraudDetection - INFO - Input converted to DataFrame
+[ 2026-06-04 12:18:06,892 ] 42 FraudDetection - INFO - Prediction: 0.0, Probability: 0.0

@@ -1,0 +1,7 @@
+model_trainer:
+  expected_accuracy: 0.80
+
+mlflow:
+  experiment_name: Credit_Card_Fraud_Detection
+  tracking_uri: sqlite:///mlflow.db
+  registered_model_name: FraudDetectionModel
