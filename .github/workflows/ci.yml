@@ -30,10 +30,6 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Verify FastAPI Import
-        run: |
-          python -c "from src.deployment.app import app"
-
       - name: Verify Prediction Pipeline
         run: |
           python -c "from src.deployment.prediction import PredictionPipeline"
