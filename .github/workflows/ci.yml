@@ -29,7 +29,7 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
-          
+
       - name: Validate Python Files
         run: |
           python -m py_compile src/deployment/app.py
@@ -38,5 +38,7 @@ jobs:
           python -m py_compile src/deployment/schemas.py
 
       - name: Run Unit Tests
+        env:
+          PYTHONPATH: ${{ github.workspace }}
         run: |
           pytest tests/ -v
