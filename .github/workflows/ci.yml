@@ -33,12 +33,6 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Debug Repository Structure
-        run: |
-          pwd
-          ls -la
-          find . -type f | sort
-
       - name: Validate Python Files
         run: |
           python -m py_compile src/deployment/app.py
