@@ -13,6 +13,9 @@ jobs:
   build-and-test:
     runs-on: ubuntu-latest
 
+    env:
+      PYTHONPATH: ${{ github.workspace }}
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -20,7 +23,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.13"
 
       - name: Upgrade pip
         run: |
@@ -30,6 +33,12 @@ jobs:
         run: |
           pip install -r requirements.txt
 
+      - name: Debug Repository Structure
+        run: |
+          pwd
+          ls -la
+          find . -type f | sort
+
       - name: Validate Python Files
         run: |
           python -m py_compile src/deployment/app.py
@@ -38,7 +47,5 @@ jobs:
           python -m py_compile src/deployment/schemas.py
 
       - name: Run Unit Tests
-        env:
-          PYTHONPATH: ${{ github.workspace }}
         run: |
           pytest tests/ -v
