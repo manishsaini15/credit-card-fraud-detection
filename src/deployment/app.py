@@ -4,25 +4,23 @@ from src.logger.logger import logger
 from src.deployment.schemas import TransactionSchema
 from src.deployment.prediction import PredictionPipeline
 
-# =====================================================
-# FASTAPI APP
-# =====================================================
-
 app = FastAPI(
     title="Credit Card Fraud Detection API",
     version="1.0",
     description="Production ML API for fraud detection"
 )
 
-# Load pipeline once
-pipeline = PredictionPipeline()
-
-logger.info("API initialized successfully")
+pipeline = None
 
 
-# =====================================================
-# HEALTH CHECK
-# =====================================================
+@app.on_event("startup")
+async def startup_event():
+    global pipeline
+
+    pipeline = PredictionPipeline()
+
+    logger.info("API initialized successfully")
+
 
 @app.get("/")
 def home():
@@ -30,10 +28,6 @@ def home():
         "message": "Fraud Detection API is running 🚀"
     }
 
-
-# =====================================================
-# PREDICTION ENDPOINT
-# =====================================================
 
 @app.post("/predict")
 def predict(data: TransactionSchema):
